@@ -1,0 +1,1 @@
+PintOS is an incomplete OS written in C to learn and identify the fundemental concepts of operating systems while completing it's functionalities. As part of the CS2043 Operating Systems Module in Semester 3 I developed the source code to add interactive shell and simple user programs
